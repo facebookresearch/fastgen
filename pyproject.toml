@@ -1,0 +1,14 @@
+[project]
+name = "fastgen"
+version = "1.0.0"
+requires-python = ">= 3.11"
+dynamic = ["dependencies"]
+
+[tool.setuptool.dynamic]
+dependencies = {file = ["requirements.txt"]}
+[project.optional-dependencies]
+serve = ["flask"]
+
+[project.scripts]
+fgchat = "fastgen.tools.chat:main"
+fgserve = "fastgen.tools.serve:main [serve]"
