@@ -1,3 +1,34 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=fastgen&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=fastgen&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=fastgen&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=fastgen&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=fastgen&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=fastgen&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=fastgen&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=fastgen&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=fastgen&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=fastgen&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=fastgen&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=fastgen&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=fastgen&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=fastgen&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=fastgen&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=fastgen&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=fastgen&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=fastgen&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=fastgen&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=facebookresearch&project=fastgen&lang=id">Bahasa Indonesia</a>
+      </div>
+    </div>
+  </details>
+</div>
+
 # Fastgen
 
 **High-throughput inference from dense transformers.**
